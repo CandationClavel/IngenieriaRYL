@@ -71,7 +71,7 @@ Desarrollar un sistema de registro y login utilizando Node.js y Express para pro
 2. **Clonar el repositorio**:
    - Desde una consola, clona el repositorio con el comando:
      ```bash
-     git clone <URL_DEL_REPOSITORIO>
+     git clone https://github.com/CandationClavel/IngenieriaRYL.git
      ```
 
 3. **Entrar a la carpeta del proyecto clonado**:
